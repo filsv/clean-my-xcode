@@ -1,6 +1,6 @@
 # Clean My Xcode
 
-A powerful bash script to clean and manage Xcode cache directories interactively, helping you reclaim disk space and keep your development environment tidy.
+A simple yet powerful bash script to clean and manage Xcode cache directories interactively, including massive SwiftUI preview caches, helping you reclaim valuable disk space and maintain a clean development environment effortlessly.
 
 ## Features
 
