@@ -30,7 +30,7 @@ Total size: ~19.2 GB
 
 ## Quick Start
 
-Run the script directly using the following command:
+Run the script directly from the terminal using the following command:
 
 ### Using curl
 ```bash
